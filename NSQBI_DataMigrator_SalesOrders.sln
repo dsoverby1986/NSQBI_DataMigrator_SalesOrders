@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSQBI_DataMigrator_SalesOrders", "NSQBI_DataMigrator_SalesOrders\NSQBI_DataMigrator_SalesOrders.csproj", "{A6CE501B-7871-40A0-A7A5-705C85C1B52E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6CE501B-7871-40A0-A7A5-705C85C1B52E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6CE501B-7871-40A0-A7A5-705C85C1B52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6CE501B-7871-40A0-A7A5-705C85C1B52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6CE501B-7871-40A0-A7A5-705C85C1B52E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DD58DC0-E468-4373-A311-3AEF3067B3E5}
+	EndGlobalSection
+EndGlobal
